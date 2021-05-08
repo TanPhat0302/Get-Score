@@ -16,3 +16,4 @@ void input_scores(int []);
 void evaluation(int [], int[]);
 void classification(int[], int[], int[]);
 void output_results(int[], int[], int s[]);
+// this line is edited from github
